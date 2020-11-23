@@ -1,21 +1,26 @@
 <p align='center'>
 <a href="https://twitter.com/kamisaur_k"><img height="30" src="https://github.com/kamisaur/kamisaur/blob/main/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="www.linkedin.com/in/kamil-kurbonov"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="www.linkedin.com/in/kamil-kurbonov"><img height="30" src="https://github.com/kamisaur/kamisaur/blob/main/icons/linkedin.png?raw=true"></a>
 </p>
 
-### Hi there 👋
+<p align='center'>
+ <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" height="150px" >
+</p>
 
+<br />
+
+Hi, I'm Kamil Kurbonov, a software engineer from 🇷🇺 Russia, currently based in 🇲🇾 Malaysia. I enjoy working with .Net and C#, currently in love with Xamarin. 
+<br />
+In my free time I like building beautiful UI and exploring DevOps automations.
+
+**My Goals:**
+- ✏️ To start a tech blog
+- 📦 Work more on my nuget package
+- 🧑‍💻 Build more UI projects 
+
+#### 📫 How to reach me:   
+<a href="https://twitter.com/kamisaur_k"><img height="32" src="https://github.com/kamisaur/kamisaur/blob/main/icons/twitter.png?raw=true"></a>
+<a href="www.linkedin.com/in/kamil-kurbonov"><img height="32" src="https://github.com/kamisaur/kamisaur/blob/main/icons/linkedin.png?raw=true"></a>
 <!--
-**kamisaur/kamisaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hey!<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="25px">
 -->
