@@ -1,9 +1,4 @@
 <p align='center'>
-<a href="https://twitter.com/kamisaur_k"><img height="30" src="https://github.com/kamisaur/kamisaur/blob/main/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="www.linkedin.com/in/kamil-kurbonov"><img height="30" src="https://github.com/kamisaur/kamisaur/blob/main/icons/linkedin.png?raw=true"></a>
-</p>
-
-<p align='center'>
  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" height="150px" >
 </p>
 
