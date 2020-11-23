@@ -1,3 +1,8 @@
+<p align='center'>
+<a href="https://twitter.com/kamisaur_k"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="www.linkedin.com/in/kamil-kurbonov"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
+
 ### Hi there 👋
 
 <!--
