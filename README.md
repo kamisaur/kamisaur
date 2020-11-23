@@ -4,7 +4,7 @@
 
 <br />
 
-Hi, I'm Kamil Kurbonov, a software engineer from 🇷🇺 Russia, currently based in 🇲🇾 Malaysia. I enjoy working with .Net and C#, currently in love with Xamarin. 
+Hi, I'm Kamil Kurbonov, a software engineer from 🇷🇺 Russia, based in 🇲🇾 Malaysia. I enjoy working with .Net and C#, currently in love with Xamarin. 
 <br />
 In my free time I like building beautiful UI and exploring DevOps automations.
 
